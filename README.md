@@ -23,4 +23,10 @@ Logistic Regression
 Evaluation Metrics:
 Accuracy Score,
 Confusion Matrix,
-Classification Report,
+Classification Report
+
+Steps to Run:
+Clone the repository: git clone <your-repo-link>
+Install libraries: pip install pandas numpy matplotlib seaborn scikit-learn
+Open Jupyter Notebook: jupyter notebook
+Run: employee_attrition.ipynb
