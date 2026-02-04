@@ -9,18 +9,18 @@ Kaggle:
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 Jupyter Notebook
 
 Model Used:
 Logistic Regression
 
 Evaluation Metrics:
-Accuracy Score
-Confusion Matrix
-Classification Report
+Accuracy Score,
+Confusion Matrix,
+Classification Report,
