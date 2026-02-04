@@ -26,7 +26,11 @@ Confusion Matrix,
 Classification Report
 
 Steps to Run:
+
 Clone the repository: git clone <your-repo-link>
+
 Install libraries: pip install pandas numpy matplotlib seaborn scikit-learn
+
 Open Jupyter Notebook: jupyter notebook
+
 Run: employee_attrition.ipynb
